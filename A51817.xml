@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon concerning publick worship preached before the Queen on Wednesday the 23d of March, 1691/2 / by Thomas Manningham ...</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51817</idno>
+            <idno type="STC">Wing M499</idno>
+            <idno type="STC">ESTC R3514</idno>
+            <idno type="EEBO-CITATION">13674093</idno>
+            <idno type="OCLC">ocm 13674093</idno>
+            <idno type="VID">101210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon concerning publick worship preached before the Queen on Wednesday the 23d of March, 1691/2 / by Thomas Manningham ...</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crook ... and S. Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by Her Majesties special command."</note>
+                  <note>Half-title: Dr. Manningham's sermon before the Queen at White-Hall March the 23d, 1691/2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LVI --  Sermons.</term>
+               <term>Public worship --  Sermons.</term>
+               <term>Public worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101210:1"/>
+            <pb facs="tcp:101210:1"/>
+            <p>A SERMON CONCERNING <hi>Publick Worſhip,</hi> Preached before the QUEEN, ON <hi>Wedneſday</hi> the 23<hi rend="sup">d</hi> of <hi>March,</hi> 1691/2.</p>
+            <p>By <hi>Thomas Manningham</hi> D. D. Chaplain in Ordinary to Their Majeſties, and Rector of St. <hi>Andrew Holborn.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Her Maieſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Crook</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar,</hi> and <hi>S. Smith</hi> at the <hi>Princes Arms</hi> in St. <hi>Paul</hi>'s Church-yard. 1692.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:101210:2"/>
+            <pb facs="tcp:101210:2"/>
+            <p>Dr. <hi>MANNINGHAM</hi>'s SERMON Before the QUEEN, AT WHITE-HALL, <hi>March</hi> the 3<hi rend="sup">d</hi>, 1691/2.</p>
+            <pb facs="tcp:101210:3"/>
+            <pb facs="tcp:101210:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101210:4"/>
+            <pb n="1" facs="tcp:101210:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Iſaiah <hi>LVI. and the latter part of the 7th Verſe.</hi>
+                  </bibl>
+                  <p>—Mine Houſe ſhall be called an Houſe of Prayer to all People.</p>
+               </q>
+            </epigraph>
+            <p>IT may not be improper, for our better underſtanding of theſe words, to re<g ref="char:EOLhyphen"/>flect upon ſome few things relating to that Great and Magnificent <hi>Temple</hi> which King <hi>Solomon</hi> built unto the Lord.</p>
+            <p n="1">1. That althô that <hi>Temple</hi> was erected to ſerve chiefly for the <hi>Ceremonial Worſhip</hi> among the Jews, yet the building of a Temple to God was no part of Ceremonial Duty.</p>
+            <p>There were always, even from the Crea<g ref="char:EOLhyphen"/>tion of the World, ſet and appointed places for the more <hi>Solemn Worſhip</hi> of God: That which was commanded in the<note n="*" place="margin">Deut. xii. 5, 11.</note> 
+               <hi>Law</hi> concern<g ref="char:EOLhyphen"/>ing this matter, was conſonant to the Light of Nature, and the ſame that Religion taught all Mankind to obſerve: for a main part of the <hi>External Acknowledgment</hi> of God, is by dedicating of Altars and Temples to
+<pb n="2" facs="tcp:101210:5"/>him, and by ſeparating of Places for his pe<g ref="char:EOLhyphen"/>culiar Service.</p>
+            <p>The Deſign of Building a Temple to the Almighty, enter'd firſt into King <hi>David</hi>'s<note n="*" place="margin">2 Sam. vii. 2.</note> Heart, from an Inſtinct and Principle of Natural Religion, and from an ardent de<g ref="char:EOLhyphen"/>ſire of leaving ſome ſtanding Teſtimony of the Extraordinary Devotion of his Soul; but the actual performance of that glorious Deſign was reſerv'd, by the<note n="*" place="margin">V. 13.</note> immediate Ap<g ref="char:EOLhyphen"/>pointment of God, for the more peaceable and quiet Reign of King <hi>Solomon.</hi>
+            </p>
+            <p n="2">2. When <hi>Solomon</hi> Dedicated that Temple to the Lord, he took eſpecial care to pre<g ref="char:EOLhyphen"/>vent all unworthy and idolatrous Thoughts concerning God, that the Minds of the Jews might not be poſſeſs'd with any ſuch groſs Conceptions as the Heathen entertain'd con<g ref="char:EOLhyphen"/>cerning <hi>their Temples,</hi> which they generally eſteemed as a ſort of <hi>Confinement</hi> to their Gods:<note place="margin">1 Kings viii. 27.</note> whereas <hi>Solomon</hi> asks, <hi>Will God in<g ref="char:EOLhyphen"/>deed dwell upon the Earth? behold the Hea<g ref="char:EOLhyphen"/>ven, and the Heaven of Heavens cannot con<g ref="char:EOLhyphen"/>tain Thee! how much leſs this Houſe which I have builded?</hi>
+            </p>
+            <p>All that he intended and deſired, was, That God would have reſpect unto the <hi>Pray<g ref="char:EOLhyphen"/>ers</hi>
+               <pb n="3" facs="tcp:101210:5"/>and <hi>Supplications,</hi> and the Religious Du<g ref="char:EOLhyphen"/>ties that were perform'd in that place,<note place="margin">V. 28, 29.</note> and <hi>That his Eyes might be open towards that Houſe day and night.</hi>
+            </p>
+            <p n="3">3. <hi>Solomon</hi> did not beg That God would regard only the Prayers and Supplications of the Jewiſh Nation, when either they Wor<g ref="char:EOLhyphen"/>ſhipped <hi>in</hi> or <hi>towards</hi> that Temple; but his concern reach'd further, even to the <hi>Stranger</hi>
+               <note n="*" place="margin">V 43.</note> and to <hi>All the People of the Earth.</hi>
+            </p>
+            <p>Accordingly there was a <hi>particular place</hi> of <hi>Worſhip</hi> appointed for the uſe of the <hi>Stran<g ref="char:EOLhyphen"/>gers</hi> amongſt them, which was called <hi>The Court of the Gentiles:</hi> And this was the place where the Buyers and Sellers, and Money-changers ſate, whom our Saviour drove out with an exceeding Tranſport of Zeal, making uſe of this Text, and adding to it another paſſage out of the Prophet<note n="*" place="margin">Chap. vii. 11. Matth. xxi. 13.</note> 
+               <hi>Jeremiah, Mine Houſe ſhall be called an Houſe of Prayer, but ye have made it a Den of Thieves.</hi>
+            </p>
+            <p>The Jews were too Zealous a ſort of Peo<g ref="char:EOLhyphen"/>ple to ſuffer any ſuch prophanation of That part of the Temple in which their <hi>own Wor<g ref="char:EOLhyphen"/>ſhip</hi> was perform'd; but as to <hi>That,</hi> which was allow'd to the <hi>Strangers,</hi> they look't upon <hi>It</hi> as prophan'd already by the <hi>very Worſhip<g ref="char:EOLhyphen"/>pers</hi>
+               <pb n="4" facs="tcp:101210:6"/>themſelves, and that nothing could well defile <hi>it</hi> more.</p>
+            <p>But our Saviour, to ſhew that the <hi>Ceremo<g ref="char:EOLhyphen"/>nial Worſhip</hi> was now to expire, and that the <hi>Nations</hi> were to be receiv'd into his Kingdom, exercis'd a moſt ſurprizing and extraordinary act of Zeal in <hi>Their</hi> behalf; and requir'd as much <hi>Reverence</hi> for the Court of the Gentiles, as they did for the moſt Sacred part of the Temple.</p>
+            <p>It is here called an Houſe of <hi>Prayer</hi> and not of <hi>Sacrifice;</hi> becauſe Prayer is an Univerſal Duty, the chief and moſt eminent part of Religious Worſhip, and without <hi>which</hi> Sacri<g ref="char:EOLhyphen"/>fice it ſelf was not accepted. An Houſe of Prayer to <hi>All people;</hi> whereby the <hi>extent</hi> of This Duty was ſignify'd, and how ſuitable it was that God ſhould be worſhip'd by <hi>all people,</hi> and all <hi>Nations,</hi> as The Great Lord of Heaven and Earth, as The God of the Gentiles, as well as the Jews: that his Honour ſhould be made known throughout all the world, and that he ſhould be acknowledg'd and ſerv'd in as <hi>Pub<g ref="char:EOLhyphen"/>lick</hi> a manner as the Circumſtances of Mankind could admit.</p>
+            <p>The Text being thus open'd and explain'd, is capable of affording great variety of Matter;
+<pb n="5" facs="tcp:101210:6"/>either for juſtifying the <hi>Sacredneſs</hi> of <hi>Religious places,</hi> and the <hi>Reverence</hi> that is due unto <hi>them;</hi> or for enlarging on the <hi>Nature</hi> of <hi>Prayer,</hi> and ſhewing the <hi>Excellency</hi> of that Duty: But be<g ref="char:EOLhyphen"/>cauſe by <hi>Prayer</hi> in this place we are to under<g ref="char:EOLhyphen"/>ſtand the <hi>whole Body</hi> of <hi>Religious Duties,</hi> con<g ref="char:EOLhyphen"/>ſiſting of Prayers, Praiſes, Thankſgivings, Sacra<g ref="char:EOLhyphen"/>ments, and Dedications of our ſelves to God, which altogether make up our <hi>Spiritual Sacri<g ref="char:EOLhyphen"/>fice;</hi> and becauſe this Duty is here extended to All People, to All Nations, to ſigniſie the moſt <hi>publick</hi> and <hi>ſolemn</hi> performance of it: Therefore the only thing which I ſhall endea<g ref="char:EOLhyphen"/>vour from <hi>theſe words,</hi> ſhall be to lay before you ſome Conſiderations in order to raiſe your e<g ref="char:EOLhyphen"/>ſteem for the <hi>publick Worſhip</hi> of God, to encou<g ref="char:EOLhyphen"/>rage your Conſtancy in <hi>it,</hi> and to encreaſe your delight and joy in that <hi>moſt acceptable Service.</hi> And this I take to be a very <hi>ſeaſonable Subject</hi> in this <hi>Holy Week</hi> which the Church has thought fit to diſtinguiſh from the reſt of the <hi>Lent,</hi> by a peculiar <hi>enlargement</hi> of her <hi>Publick Devotions.</hi>
+            </p>
+            <p>The many unreaſonable Exceptions that have been made againſt our Form of Worſhip; The placing the main of Religion in the <hi>Hea<g ref="char:EOLhyphen"/>ring</hi> of <hi>Sermons;</hi> and the fanciful opinion of ſome, that they can ſerve God as acceptably
+<pb n="6" facs="tcp:101210:7"/>at Home, as in the Church; have very much leſſen'd that Zeal among many, which is due to that Worſhip which is perform'd in the <hi>Publick Aſſemblies.</hi>
+            </p>
+            <p>But I ſhall endeavour to make it appear, That the <hi>beſt Homage,</hi> which we can pay to God, is that which is <hi>moſt Publick;</hi> and that the beſt part of <hi>Religion</hi> is that, which we exerciſe <hi>in Common</hi> with united Hearts and Voices in full and ſolemn Congregations.</p>
+            <p n="1">I. This is the way of giving the greateſt Honour to God.</p>
+            <p>It is but a poor and a very unworthy ſort of Honour, which we, the loweſt of all Ratio<g ref="char:EOLhyphen"/>nal Creatures, ſuch Rational Creatures as are u<g ref="char:EOLhyphen"/>nited to corruptible Bodies, which depreſs and clog the Soul, are able to pay to our great Creator: But if we take care to glorifie Him according to thoſe Abilities he has given us, and according to that Manner he has preſcrib'd unto us, he will accept of our ſincere Ho<g ref="char:EOLhyphen"/>mage, thô it be but a mean Sacrifice, and will make us capable of Adoring him hereafter in a more Perfect way.</p>
+            <p>He has ſeveral Orders of Pure and Spiritual Beings to glorifie him with the immediate Ado<g ref="char:EOLhyphen"/>ration of their Minds; but we are confin'd to
+<pb n="7" facs="tcp:101210:7"/>Bodies, and muſt give him glory, as he has made us capable of giving <hi>it:</hi> we muſt declare his Greatneſs and his Goodneſs to one another, and give outward Teſtimonies of the inward ſenſe we have of his Perfections, of his Majeſty, of his Power, and of his Mercy. Now to do this in the moſt <hi>Publick</hi> manner is the way of giving the greateſt Honour to God, and is a Veneration moſt ſuitable to the Majeſty of him we Adore.</p>
+            <p>When a Multitude of People meet together to Worſhip the Almighty, and to ſet forth his Praiſes; it makes ſome little Figure of Heaven, it raiſes our Minds to more magnificent Con<g ref="char:EOLhyphen"/>ceptions of God, and more fully repreſents him to us as the Governour of the World: Whereas, if we look upon him, as only intend<g ref="char:EOLhyphen"/>ing our private Intereſt, as buſied only to ſerve our preſent wants, we may be thought to con<g ref="char:EOLhyphen"/>ceive of him, rather as an Idol, than as that In<g ref="char:EOLhyphen"/>finite Being, whoſe Care and Providence are extended to the concerns of the whole Creation.</p>
+            <p>To Worſhip God truly, is to make him known to be the Lord of the Univerſe, the Common Parent, Preſerver, and Benefactor of all Mankind; and therefore, <hi>Publick Aſſemblies</hi> are the beſt ſignification of his glorious Per<g ref="char:EOLhyphen"/>fections,
+<pb n="8" facs="tcp:101210:8"/>and vaſt Dominion: for They are a <hi>Viſible</hi> expreſſion of the greatneſs of God, they enlarge our Idea of him, and make us more ſenſible of his Majeſty, than words and lan<g ref="char:EOLhyphen"/>guage can do.</p>
+            <p>They who cannot uſe their Minds to any abſtracted ways of Thinking, may be wonder<g ref="char:EOLhyphen"/>fully confirm'd and heighten'd in their Ac<g ref="char:EOLhyphen"/>knowledgments and Thoughts of a Deity, when they ſee how the Learned and the Rich, and the Honourable, and the greateſt Perſons upon the Earth, do bow and kneel before their Maker, and humble themſelves in the Duſt of the Sanctuary to witneſs their pro<g ref="char:EOLhyphen"/>found Veneration of an Infinite Wiſdom, Power, and Goodneſs.</p>
+            <p>What becoming Thoughts and Affections towards God muſt this needs inſpire into the Multitude, when they ſhall obſerve thoſe, whoſe Knowledge and Judgment, whoſe Vertues and Excellencies they exceedingly admire, to be<g ref="char:EOLhyphen"/>have themſelves moſt Reverently and Devout<g ref="char:EOLhyphen"/>ly in the Preſence of God? What Excuſe can they have to neglect that Religion which they plainly perceive to be in ſuch high eſteem with thoſe of the greateſt Place and Dignity, and of the cleareſt repute for Wiſdom and Piety?</p>
+            <pb n="9" facs="tcp:101210:8"/>
+            <p>What Deſire, what holy Ambition muſt it raiſe in the Common People, to appear often in the Place of Divine Worſhip, and to make up the great Congregation; that they may mingle themſelves with the Noble and Wiſe, and be equal Worſhippors with them, of the ſame God, and the ſame Mediator?</p>
+            <p n="2">II. The <hi>Nature</hi> of Religion is ſuch, that it eſpecially requires a <hi>Publick Exerciſe.</hi>
+            </p>
+            <p>That which makes all our Actions religious, is the performing them in Obedience to God, and with an Intention of his Glory; whatever the particular Duties are in which we are en<g ref="char:EOLhyphen"/>gag'd, whether they immediately reſpect our Neighbours or our ſelves, if the chief Motive of doing them be derived from the Will and Pleaſure of God they are a Religious Service. But what we more properly call Religion, is that which has an immediate Reſpect to God, and is directly intended for the promoting of his Glory; and the moſt eminent part of this Religion, is the <hi>Publick Service</hi> of the Church, which is ſtill more eminently ſo, as it is more Publick and Solemn, becauſe more becoming the Honour and Greatneſs of him we Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>This Religious Service is a Natural Debt
+<pb n="10" facs="tcp:101210:9"/>which we owe to God, as we are his Crea<g ref="char:EOLhyphen"/>tures; and had we continued Innocent, would have principally conſiſted in Praiſes and Thankſ<g ref="char:EOLhyphen"/>givings, and high Admirations of God's Power and Wiſdom and Bounty! But ſince we are in a Fal'n Condition, and a State obnoxious to the diſpleaſure of God, there is a Neceſſity of glorifying him by an humble <hi>Confeſſion</hi> of our <hi>Sins,</hi> and an earneſt Importunity for Pardon and Forgiveneſs. And this can never, be ſo Acceptable, as when it is Publick; for by that means we take more ſhame to our, ſelves by making a more Solemn Acknowledgment of our guilt, and we give more glory to God by our open Confeſſions and Humiliations.</p>
+            <p>Moſt of the <hi>Pſalms</hi> of <hi>David</hi> were deſign'd to a Publick end, and to make up the Service of the Congregation: and he himſelf reckons it as one of the more bitter Afflictions of his Life, that the Troubles of his Kingdom ſome<g ref="char:EOLhyphen"/>times baniſh'd him from the Publick Service of God: For thô we have no reaſon to doubt but ſo Religious a Perſon maintain'd a conti<g ref="char:EOLhyphen"/>nual intercourſe with God by way of private Prayer; yet the <hi>Solemn Service</hi> of <hi>the Sunctu<g ref="char:EOLhyphen"/>ary</hi> was that in which the Honour of God was ſo ſignally acknowledg'd and diſplay'd, and
+<pb n="11" facs="tcp:101210:9"/>his Name ſo eminently glorify'd, that no<g ref="char:EOLhyphen"/>thing elſe could properly carry the <hi>Title</hi> of <hi>Divine Worſhip</hi> among the Jews: and there<g ref="char:EOLhyphen"/>fore in their Captivity, whenever they made their private Addreſſes to God, they directed themſelves towards <hi>Jeruſalem,</hi> where the <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> of the Lord was founded.</p>
+            <p>Our bleſſed Saviour, in the Reformation he made of Religion, was moſt tender of the Honour of his Father, and took nothing from the Publick Worſhip that did any way con<g ref="char:EOLhyphen"/>duce to his Glory. He put an end to the repeated Sacrifices of Beaſts, by fulfilling what they ſignify'd, in offering up his own Body, once for all, upon the Croſs; and leav<g ref="char:EOLhyphen"/>ing to the Church that Alſufficient Sacrifice of himſelf for their perpetual Commemora<g ref="char:EOLhyphen"/>tion.</p>
+            <p>He taught that God was to be worſhipped in <hi>Spirit</hi> and in <hi>Truth;</hi>
+               <note place="margin">St. John iv. 24.</note> not in the leaſt to de<g ref="char:EOLhyphen"/>rogate from the <hi>Publick Worſhip</hi> of God, but to ſhew that the <hi>Typical Service</hi> was within a while to ceaſe, and that the <hi>Heart</hi> and <hi>In<g ref="char:EOLhyphen"/>ward Affections</hi> were always to accompany the <hi>External Worſhip.</hi>
+            </p>
+            <pb n="12" facs="tcp:101210:10"/>
+            <p>He gave an eſpecial Command for <hi>Secret Prayer,</hi>
+               <note place="margin">St. Matth. vi. 6.</note> becauſe there was no need at that time of Exhorting to the Publick Worſhip, which was then ſufficiently frequented, and in which the <hi>Hypocriſy,</hi> of that Age did ſo much Reign. And beſides, by that <hi>Precept</hi> of his, he tacitly reprov'd the Oſtentation of the Phariſees, which was ſo notorious in all their <hi>Publick Devetions.</hi>
+            </p>
+            <p>Our Saviour was ſo far from Diſcountenan<g ref="char:EOLhyphen"/>cing the Publick Service of Religion, that he came to remove the <hi>Jewiſh Confinement,</hi> and to make way for all the Nations of the Earth, to come in and glorifie God with one Heart, and with one Voice.</p>
+            <p>Wherefore our Chriſtianity does conſiſt in ſerving God as Parts of the Body of Chriſt, and in a Joynt and Feſtival Commemorating of the exceeding great Bleſſing of our Com<g ref="char:EOLhyphen"/>mon Redemption.</p>
+            <p>Had an <hi>Inward Faith,</hi> and a <hi>Private De<g ref="char:EOLhyphen"/>votion</hi> been ſufficient to have carried Chri<g ref="char:EOLhyphen"/>ſtians to Heaven, they would never have <hi>Aſ<g ref="char:EOLhyphen"/>ſembled</hi> together in the hotteſt Times of <hi>Per<g ref="char:EOLhyphen"/>ſecution,</hi> when their <hi>Meetings</hi> expos'd them ſo much to the Obſervation and Rage of their
+<pb n="13" facs="tcp:101210:10"/>Enemies: But they very well knew than Chriſt had required an <hi>open Confeſſion</hi> and Acknowledgment of his Religion from all his Followers, and had made it their Duty to keep up a conſtant Communion with him, and with one another in the Publick Offices of Divine Worſhip; and that to be excluded that Publick Worſhip, upon the account of any notorious Crime, was ſo dreadful a pu<g ref="char:EOLhyphen"/>niſhment, that it was no leſs than an Antici<g ref="char:EOLhyphen"/>pation of the Future Judgment of the laſt Day, when the Wicked ſhall be <hi>Eternally</hi> ſe<g ref="char:EOLhyphen"/>parated from all Communion with the Righ<g ref="char:EOLhyphen"/>teous.</p>
+            <p>Chriſtians are not to look upon themſelves as ſingle Perſons, of diſtinct and ſeparate In<g ref="char:EOLhyphen"/>tereſts; but they are to conſider themſelves as Members of the ſame Myſtical Body, as Parts of the ſame Spiritual Society; that they are Redeem'd as a Church, and are to glorifie God as a Church; that their chief, Bleſſings are thoſe they enjoy in Common, and that no Private Devotions are acceptable to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, when ſet in oppoſition to the Publick. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny indeed, ſay what we can to the con<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>, are apt to ſuppoſe themſelves good Chr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ians, barely by Believing in Chriſt, and
+<pb n="14" facs="tcp:101210:11"/>by Praying in private; but they would do well to conſider, that the Carechumens of old, or thoſe, who were but in a preparati<g ref="char:EOLhyphen"/>on for their Baptiſm, were accounted Be<g ref="char:EOLhyphen"/>lievers, were taught their Creed, and inſtruct<g ref="char:EOLhyphen"/>ed how to pray, before they were admit<g ref="char:EOLhyphen"/>ted into the Chriſtian Union, or into the Society of the Church by way of Baptiſm; and before they were made Partakers of thoſe Priviledges which Chriſt has purchas'd for ſuch, who ſerve him in the Aſſembly of the Saints.</p>
+            <p>Wherefore upon theſe, and ſeveral<note n="*" place="margin">See Mr. <hi>Thorn<g ref="char:EOLhyphen"/>dike</hi> of Re<g ref="char:EOLhyphen"/>ligious Aſſemblies, Biſhop <hi>Pa<g ref="char:EOLhyphen"/>trick,</hi> Dean <hi>Sherlock,</hi> on the ſame Argument.</note> o<g ref="char:EOLhyphen"/>ther Accounts which I ſhall not inſiſt on at preſent, it may plainly appear, that the Na<g ref="char:EOLhyphen"/>ture of our Religion is ſuch, that it eſpeci<g ref="char:EOLhyphen"/>ally requires a Publick Profeſſion and Exer<g ref="char:EOLhyphen"/>ciſe.</p>
+            <p n="3">III. There is nothing that ſo much pro<g ref="char:EOLhyphen"/>motes a Spirit of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Charity,</hi> as a due eſteem and practice of the Publick Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>The beſt Natural Argument that we have for the loving one another, is the Conſide<g ref="char:EOLhyphen"/>ration that we are Creatures made for So<g ref="char:EOLhyphen"/>ciety, that our private welfare is infinitely advanc'd by mutual Beneficence, and that
+<pb n="15" facs="tcp:101210:11"/>our trueſt Intereſt is infolded in the Publick Good.</p>
+            <p>But Chriſt, who has form'd us into a Re<g ref="char:EOLhyphen"/>ligious Society, and made us Members of the ſame Body by a Myſtical and Sacred U<g ref="char:EOLhyphen"/>nion, has laid a Foundation for a ſtronger Tye of Friendſhip, and for more generous Acts of Love.</p>
+            <p>For how can the things of this World di<g ref="char:EOLhyphen"/>vide us, when we muſt expect them no o<g ref="char:EOLhyphen"/>therwiſe than as the Effects of our Prayers, and muſt deſire them no further then as they are ſerviceable, or at leaſt no Impediment, to our everlaſting good?</p>
+            <p>What can bring us to a greater concern for one another, and more Unite our Affe<g ref="char:EOLhyphen"/>ctions, than a frequent Meeting at the ſame place of Worſhip, and joyning together in the ſame Duties of Religion? If common Converſation has ſo many Attractives, ſo ma<g ref="char:EOLhyphen"/>ny Charms in it, how muſt a <hi>Sacred Familia<g ref="char:EOLhyphen"/>rity</hi> endear us? Where we have but one great Buſineſs to proſecute, and 'tis the In<g ref="char:EOLhyphen"/>tereſt of us all to promote that: where we endeavour to appear in the beſt Temper, the mildeſt Diſpoſition, and the moſt humble frame of Mind: where we lay by the diſtin<g ref="char:EOLhyphen"/>ctions
+<pb n="16" facs="tcp:101210:12"/>of Family, Place, and Title, and all the little Differences that the order of this Life creates: where we advance no particu<g ref="char:EOLhyphen"/>lar ends that are contrary to the general Good, but rejoyce to promote each others Salvation: where we withdraw our Minds from Earthly things, which occaſion ſo much Paſſion in Mankind; and ſet our Hearts up<g ref="char:EOLhyphen"/>on that Heaven which is large enough to receive us all, and to ſatisfie us with full con<g ref="char:EOLhyphen"/>tent.</p>
+            <p>How can we be angry with thoſe Perſons, who meet at the ſame place of Worſhip with our ſelves, and appear in ſuch Poſtures of Reverence and Humility, as plainly ſignifie that they are Repenting of all their Sins, and humbling themſelves for their Infirmities? How can we retain any Enmity againſt our Fellow-Chriſtians, when the very Duties which we our ſelves are engag'd in, muſt needs ſuggeſt the many Provocations we have offer'd to God, the gracious Pardon we have receiv'd from him, and the <hi>Condition</hi> upon which that Pardon was diſpens'd, <hi>viz.</hi> the Forgiving of one another? Or how can there be any Entertainment for thoſe narrow and ſor did Paſſions of Malice, and Hatred, and Re<g ref="char:EOLhyphen"/>venge
+<pb n="17" facs="tcp:101210:12"/>in the Breaſts of thoſe who are the Worſhippers of God in Publick, who cannot but have their Minds rais'd, their Affections ſweetned, and their Hearts enlarg'd by the Solemn Praiſes in the Congregation?</p>
+            <p>'Tis in the Church that we muſt learn the trueſt Union of Hearts and Affections; where we are all concern'd for our Common Salva<g ref="char:EOLhyphen"/>tion, and all rely upon one Common Savi<g ref="char:EOLhyphen"/>our and Redeemer; where all the Girts and Graces of Chriſt are beſtow'd for the Edifi<g ref="char:EOLhyphen"/>cation of his Body, and all our greateſt Be<g ref="char:EOLhyphen"/>nefits are enjoy'd in Common? where we are diſpos'd to pray for one another, to rejoyce with one another, to ſuffer with one another.</p>
+            <p>But the greateſt part of the Chriſtian World are as yet Strangers to this Happineſs, for they are moſt divided in that <hi>very thing</hi> which ſhould pecullarly <hi>
+                  <g ref="char:V">Ʋ</g>nite</hi> them: what Peace therefore can be expected in Tempo<g ref="char:EOLhyphen"/>ral Matters, when Men will not indure a Communion in Holy things? And what more probable Reaſon can we aſſign of the Divi<g ref="char:EOLhyphen"/>ſions and Hatreds, and the malicious Oppoſi<g ref="char:EOLhyphen"/>tions of one another throughout the Chriſti<g ref="char:EOLhyphen"/>an World, than that we are unhappily <hi>Di<g ref="char:EOLhyphen"/>vided</hi>
+               <pb n="18" facs="tcp:101210:13"/>in the <hi>Publick Worſhip</hi> of God? That ſome Mens Devotions are held either Idola<g ref="char:EOLhyphen"/>try or Superſtition to others? and that ma<g ref="char:EOLhyphen"/>ny look upon it as a main part of Reli<g ref="char:EOLhyphen"/>gion to expoſe and vilifie the Worſhip of o<g ref="char:EOLhyphen"/>thers?</p>
+            <p>O gracious God, the Lord of Peace and Concord, look down in Mercy upon thy Univerſal Church; and give us, through the Light of thy Goſpel, and the Influence of thy Spirit, ſuch an underſtanding of the <hi>True Chriſtian Worſhip,</hi> that we may all come to glorifie Thee with one Heart and with one Voice! That all Factions and Perſecutions, and bloody Wars may ceaſe in the Chriſtian World, and all who call upon thy Name may be at Unity among themſelves! That we may be as tender of other Rights, and as ſenſible of their Calamities, as if they were our own! That at length we may become one Holy People, one City of God, one Bo<g ref="char:EOLhyphen"/>dy of Chriſt!</p>
+            <p n="4">IV. The frequenting the Publick Worſhip, with that Preparation, and with thoſe Diſpo<g ref="char:EOLhyphen"/>ſitions which it requires, is the beſt way, whereby we may attain to <hi>Solid Piety.</hi>
+            </p>
+            <pb n="19" facs="tcp:101210:13"/>
+            <p>It is a great Bleſſing to have a Soul in<g ref="char:EOLhyphen"/>flam'd with the Love of God, and then to be able to guide that Flame with Diſcretion; to keep it regular, and within the compaſs of the Altar, and not to ſuffer it to waſte away in violent Agitations, or an Enthuſia<g ref="char:EOLhyphen"/>ſtical Zeal.</p>
+            <p>It is much better to be pious in the old way of daily attending upon God in the Pub<g ref="char:EOLhyphen"/>lick Service of the Church, than to affect new Ways, and new Liberties, and ſuch ſin<g ref="char:EOLhyphen"/>gularities of Holineſs, as will make People more Fanciful, but leſs Humble and De<g ref="char:EOLhyphen"/>vout.</p>
+            <p>What can a Chriſtian want towards the real Edification of his Soul in Faith and Knowledge, in Vertue and Godlineſs, who makes a Conſcience of Attending the Publick Aſſemblies, as often as he reaſonably can? For there he ſhall meet with the pure Word of God, and feel the mighty Efficacy of it on his Heart; his Mind ſhall be many times more enlightned by attentively hearing a Chapter read in the Church, than if he had induſtriouſly conſulted the beſt Commenta<g ref="char:EOLhyphen"/>tors: The Majeſty of the Place, the Autho<g ref="char:EOLhyphen"/>rity of him who Officiates, and the Senſe we
+<pb n="20" facs="tcp:101210:14"/>have that God is ſpeaking to us, are apt to put our Thoughts into ſuch a Religious Frame, that we have as it were a New-un<g ref="char:EOLhyphen"/>derſtanding created in us: And beſides, the Holy Spirit loves to go along with his own Ordinance in ſome peculiar Vouchſafe<g ref="char:EOLhyphen"/>ments.</p>
+            <p>The devout<note n="*" place="margin">Pſal. 73.</note> Prophet could not well un<g ref="char:EOLhyphen"/>derſtand ſome of the Diſſibulties about Pro<g ref="char:EOLhyphen"/>vidence, 'till he went into <hi>the Sanctuary of the Lord,</hi> but that ſoon gave him a ſufficient knowledge of them, and what is more, a <hi>Contentment</hi> under them too.</p>
+            <p>
+               <hi>True Chriſtian Knowledge</hi> does not come in ſo ſound and ſo uſeful by <hi>hand Study,</hi> as by having a <hi>Temper</hi> fit to receiver it; and we have many times a <hi>Divine Truth</hi> more ſtrong<g ref="char:EOLhyphen"/>ly imprinted on our Minds, or more fully confirm'd unto us, when our Hearts are <hi>Ten<g ref="char:EOLhyphen"/>der</hi> and <hi>Devout,</hi> then when our Heads are exercis'd in the <hi>deepeſt Thinking.</hi>
+            </p>
+            <p>It is further obſervable, That Men are ge<g ref="char:EOLhyphen"/>nerally much more ſubject of Impreſſions and Affections, when they are <hi>Aſſembled,</hi> then when they are <hi>Alone;</hi> and this holds good in relation to <hi>Sacred,</hi> as well as to <hi>Civil</hi> Af<g ref="char:EOLhyphen"/>fairs: Thus in the Church, or in our Pub<g ref="char:EOLhyphen"/>lick
+<pb n="21" facs="tcp:101210:14"/>Devotions, beſides the <hi>direct</hi> Influence which we ſingly feel, we then receive a <hi>Col<g ref="char:EOLhyphen"/>lateral</hi> enforcement from that Union of Con<g ref="char:EOLhyphen"/>ſent which we obſerve in others, and which may be eaſily and quickly known; becauſe the very Geſtures of the Body, the Tone and Accents of the Voice, and the different Appearances of the Countenance, are a ſort of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Character,</hi> which naturally ex<g ref="char:EOLhyphen"/>preſs the more <hi>prevailing Paſſions,</hi> and in<g ref="char:EOLhyphen"/>ward Sentiments of the Soul: and therefore we are encourag'd more freely to indulge thoſe <hi>Religious Affections,</hi> which we find are no <hi>Singularities</hi> of our own <hi>particular Complexion,</hi> but ſuch as are common to all People, whenever they are truly ſenſible of the Majeſty of God, and of the power of Religion.</p>
+            <p>But further, The Publick Offices of the Church are ſuch an equal Nouriſhment, ſo well-prepar'd, and ſo kindly fitted for all the wants of a Devout Worſhipper, that if they be conſtantly made uſe of, they will not fail of bringing us to a ſtrong habit of Pie<g ref="char:EOLhyphen"/>ty.</p>
+            <pb n="22" facs="tcp:101210:15"/>
+            <p>There may be other ways of Devotion more gratifying to the Fancy, but not ſo productive of ſincere Godlineſs: They who are content with the wiſe Methods of the Church, ſhall be gradually rais'd into a <hi>Di<g ref="char:EOLhyphen"/>vine Life,</hi> as their other Graces increaſe, their <hi>Humility</hi> ſhall be equally enlarg'd; and their Zeal ſhall never out-run their meek O<g ref="char:EOLhyphen"/>bedience.</p>
+            <p>Though they feel no Extraordinary Tranſ<g ref="char:EOLhyphen"/>ports, (for the very <hi>Cuſtom</hi> of doing Good things will go near to leſſen <hi>thoſe</hi>) yet they ſhall not fail of a laſting and an abiding <hi>Com<g ref="char:EOLhyphen"/>fort;</hi> and though they do not riſe into Ho<g ref="char:EOLhyphen"/>lineſs with any <hi>Luxuriant Growth,</hi> yet they ſhall have a <hi>ſound Proficiency,</hi> for they ſhall encreaſe, with the <hi>Encreaſe</hi> of <hi>God.</hi>
+            </p>
+            <p>The true Improvement in Chriſtianity does not lye in any ſingular and affected Auſte<g ref="char:EOLhyphen"/>rity of Life, ſcrupulouſneſs of Mind, Un<g ref="char:EOLhyphen"/>quietneſs of Zeal, ſeparated Sanctity; or in reaching after ſuch <hi>Spiritual Heights</hi> as are beyond the proportion of Humanity: but it lyes in a temperate, humble, ſerious and wiſe deportment of our ſelves, in a Con<g ref="char:EOLhyphen"/>ſtancy of Duty, a Regular Piety, a Conde<g ref="char:EOLhyphen"/>ſcending, Brotherly Mildneſs of Soul, in an
+<pb n="23" facs="tcp:101210:15"/>Extenſive Charity, and a Sincere Concern for the welfare of all Mankind: And this is the very Improvement towards which all the <hi>Publick Offices</hi> of the Church ſeem to con<g ref="char:EOLhyphen"/>ſpire; for they are apt to fill our Minds with the moſt <hi>Aweful Senſe</hi> of the exceed<g ref="char:EOLhyphen"/>ing Majeſty of God, and with the moſt <hi>Humbling Thoughts</hi> of our own Unworthineſs. They are fitted to work in us the Obedience of Creatures, and the Humiliation of Sin<g ref="char:EOLhyphen"/>ners; to raiſe and enlarge our Affections, with proper Forms of Praiſes and Thankſ<g ref="char:EOLhyphen"/>givings, and to extend our Hearts in Sup<g ref="char:EOLhyphen"/>plications and Interceſſions for others.</p>
+            <p>Add to all this, That our <hi>Publick Worſhip</hi> is a <hi>True Spiritual Sacrifice</hi> to God, which no Private Prayers or Praiſes can be, though otherwiſe of Excellent uſe; for 'tis the Na<g ref="char:EOLhyphen"/>ture of all <hi>Sacrifice</hi> to be an <hi>Open,</hi>
+               <note place="margin">
+                  <hi>Biſhop</hi> La<g ref="char:EOLhyphen"/>ney <hi>on</hi> Hebr. xiii. verſ. 15.</note> 
+               <hi>External</hi> and <hi>Publick Acknowledgment:</hi> and therefore the ſolemn performance of <hi>This,</hi> is a diſtinct Vertue from all other Acts of Obedience, and of a different Obligation from all other Duties: Thoſe of the moſt Improved Minds can never be excuſed from Offering up this peculiar Sacrifice, and thoſe of the meaneſt Attainments may comfort themſelves in diſ<g ref="char:EOLhyphen"/>charging
+<pb n="24" facs="tcp:101210:16"/>this <hi>Neceſſary Homage</hi> to God: for certainly, it muſt needs be a wonderful ſa<g ref="char:EOLhyphen"/>tisfaction to any good Man, when he re<g ref="char:EOLhyphen"/>flects that he has done ſomething that is acceptable and well-pleaſing to him, who is able to reward him with endleſs Glo<g ref="char:EOLhyphen"/>ry.</p>
+            <p>To conclude, <hi>Private Prayer</hi> is the beſt Argument of our own Sincerity, but <hi>Pub<g ref="char:EOLhyphen"/>lick Prayer</hi> of our open Confeſſion of God. The <hi>firſt</hi> may be perform'd by the Heart a<g ref="char:EOLhyphen"/>lone, and the inward Motions of the Soul; but the <hi>other</hi> requires the Reverend Deport<g ref="char:EOLhyphen"/>ment of the <hi>Body,</hi> and the Atteſtation of the Voice to glorifie our Maker. By the <hi>one</hi> we beſt declare the Omniſcience and Spi<g ref="char:EOLhyphen"/>ritual Nature of God; and by the <hi>other</hi> his Greatneſs; his Majeſty, and his Pow<g ref="char:EOLhyphen"/>er.</p>
+            <p>Let this therefore be our conſtant <hi>Rule</hi> in all our <hi>Publick Devotions,</hi> to have ever an eſpecial regard to the <hi>Life</hi> and <hi>Soul,</hi> to the <hi>Spirit</hi> and <hi>Truth</hi> of <hi>God's Worſhip;</hi> to enli<g ref="char:EOLhyphen"/>ven all our outward Actions and Demeanour with the holy <hi>Intentions</hi> of the Mind, and the devout <hi>Affections</hi> of the Heart; and to make all thoſe Ceremonies and Decencies
+<pb n="25" facs="tcp:101210:16"/>which <hi>our Church</hi> has either innocently <hi>Re<g ref="char:EOLhyphen"/>tain'd,</hi> or prudently <hi>Inſtituted,</hi> to be as In<g ref="char:EOLhyphen"/>ſtrumental to our <hi>Spiritual Worſhip,</hi> as we can poſſibly make them; and not to run into ſuch vain Fancies, as if the <hi>Goſpel</hi> were an Enemy to <hi>Bodily Worſhip,</hi> or <hi>that</hi> were too <hi>groſs</hi> a way of Honouring God.</p>
+            <p>Alas! all our moſt Inward and Refined Worſhip of <hi>Soul</hi> and <hi>Spirit,</hi> can never reach the Dignity, the Majeſty, and the Spiritua<g ref="char:EOLhyphen"/>lity of That God we Adore; but in its higheſt Exaltation is Unequal, and Imper<g ref="char:EOLhyphen"/>fect, and can find no Acceptance with God, but thorough the Infinite Merits of his Son!</p>
+            <p>What are all the ſublimeſt Acts of the <hi>Soul</hi> when imploy'd in the <hi>Worſhip</hi> of God, but Ignorance, Blindneſs, and meer Diſpa<g ref="char:EOLhyphen"/>ragements of his Glory, when we conſider the Tranſcendency of the Divine Nature? though as it proceeds from us, it be an ho<g ref="char:EOLhyphen"/>neſt and a well-meant Service. And now, ſince God has given us <hi>Bodies</hi> as well as Souls, we have no reaſon to conceive otherwiſe, but that he requires to be Honour'd by <hi>Both,</hi> according to that State and Condition of
+<pb n="26" facs="tcp:101210:17"/>Nature in which we are Conſtituted, and that Order of the Creation in which we are plac'd: for what can we do more than Glo<g ref="char:EOLhyphen"/>rifie the Almighty in thoſe Capacities he has given us.</p>
+            <p>Let the Seraphim and Cherubim, and the Angels that are round his Throne, bleſs him and praiſe him in their more Exalted way, and with the pure Emanations of the Mind; but let us Magnify God with that, with which they cannot, <hi>viz.</hi> with the loweſt <hi>Pro<g ref="char:EOLhyphen"/>ſtration</hi> of our <hi>Bodies</hi> too.</p>
+            <p>Accept, moſt mighty God, that Tribute of Worſhip which thou haſt enabled us to perform; and when thou giveſt us <hi>New Pow<g ref="char:EOLhyphen"/>ers,</hi> they alſo ſhall be employ'd to magnify thy great and wonderful Name. All the Glory which we can give thee, is but the Reflection of that Light which thou doeſt firſt dart on us; and when thou takeſt us nearer thy Preſence, we ſhall then more per<g ref="char:EOLhyphen"/>fectly Reflect thy Image</p>
+            <p>Since thou haſt deſign'd a moſt Glorious <hi>Reſurrection</hi> for our Bodies, we may conclude that <hi>they</hi> alſo ſhall bear a part in that moſt <hi>ſpiritual Worſhip</hi> which ſhall be paid thee in the higheſt Heavens to all Eternity; and
+<pb n="27" facs="tcp:101210:17"/>ſince thou haſt conſecrated even theſe <hi>Cor<g ref="char:EOLhyphen"/>ruptible</hi> Bodies of ours into the <hi>Temples</hi> of the Holy Ghoſt, thou wilt not diſdain that <hi>Preſent Worſhip</hi> which they now can pay.</p>
+            <p>We will therefore Glorify thee with our Souls and with our Bodies, becauſe thou haſt Created and Redeemed them both; we will conſtantly pay thee an <hi>External Bodily Homage,</hi> but ſuch as ſhall be Anima<g ref="char:EOLhyphen"/>ted with the <hi>Mind,</hi> and the <hi>Spirit,</hi> without which we cannot truly Worſhip Thee, who art an <hi>Infinite Mind,</hi> an <hi>Infinite Spirit.</hi>
+            </p>
+            <p>Let us always remember what a zealous Concern the Humble and Meek Jeſus ſhew'd againſt the Prophaners of the Tem<g ref="char:EOLhyphen"/>ple; and when we enter into the Houſe of Prayer, let us lay aſide all our <hi>Worldly Cares,</hi> leaſt we make it a <hi>Houſe</hi> of <hi>Merchandiſe:</hi> let us not come with any <hi>Covetous, <g ref="char:V">Ʋ</g>njuſt,</hi> or <hi>Malicious</hi> Deſigns, leaſt we make it a <hi>Den of Thieves:</hi> But let the <hi>Sacredneſs</hi> of the Place, and the <hi>Weightineſs</hi> of the Buſineſs we come about, which is no leſs, than the Glo<g ref="char:EOLhyphen"/>rifying of God, and the Saving of our Souls; Let theſe Conſiderations fill us with Holy
+<pb n="28" facs="tcp:101210:18" rendition="simple:additions"/>Thoughts and Affections, and compoſe us to ſuch a <hi>Reverent Behaviour,</hi> as may beſt expreſs the Humility, and Seriouſneſs, the Love, the Joy, and all the <hi>Inward Piety</hi> of our Souls.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
